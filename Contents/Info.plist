@@ -7,7 +7,7 @@
 	<key>CFBundleGetInfoString</key>
 	<string>Ocean Colloquy Chat Style v0.1.0</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.ryansobol.colloquy.style.irssi</string>
+	<string>com.ryansobol.colloquy.style.ocean</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
