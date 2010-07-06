@@ -30,8 +30,8 @@ REQUIREMENTS
 INSTALLING
 ----------
 
-    mkdir -p "~/Library/Application Support/Colloquy/Styles/"
-    cd "~/Library/Application Support/Colloquy/Styles/"
+    mkdir -p ~/Library/Application\ Support/Colloquy/Styles/
+    cd ~/Library/Application\ Support/Colloquy/Styles/
     git clone http://github.com/ryansobol/Ocean.colloquyStyle.git
 
 USAGE
