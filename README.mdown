@@ -1,0 +1,67 @@
+Ocean Colloquy Style release 0.1.0 (July 6, 2010)
+=================================================
+
+Copyright (c) 2010 Ryan Sobol. Licensed under the MIT license. Please see the {file:LICENSE} for more information
+
+**Source Code**: [http://github.com/ryansobol/Ocean.colloquyStyle](http://github.com/ryansobol/Ocean.colloquyStyle)  
+**Bug Tracker**: [http://github.com/ryansobol/Ocean.colloquyStyle/issues](http://github.com/ryansobol/Ocean.colloquyStyle/issues)  
+**Wiki**: [http://wiki.github.com/ryansobol/Ocean.colloquyStyle](http://wiki.github.com/ryansobol/Ocean.colloquyStyle)
+
+WHAT'S NEW?
+-----------
+
+  * Initial import of the project
+
+SYNOPSIS
+--------
+
+Ocean is a Colloquy chat style for hackers
+
+FEATURES
+--------
+
+
+
+REQUIREMENTS
+------------
+
+  * [Colloquy: A Mac OS X Internet Chat Client](http://colloquy.info/)
+
+INSTALLING
+----------
+
+    mkdir -p "~/Library/Application Support/Colloquy/Styles/"
+    cd "~/Library/Application Support/Colloquy/Styles/"
+    git clone http://github.com/ryansobol/Ocean.colloquyStyle.git
+
+USAGE
+-----
+
+
+
+MOTIVATION
+----------
+
+Inspired, and lovingly remixed, by [Irssi Colloquy Chat Style](http://colloquy.info/extras/details.php?file=63) by Koen Vervloesem
+
+REPORTING ISSUES
+----------------
+
+Would you take a moment to shed light on my negligence over at the [Issue Tracker](http://github.com/ryansobol/Ocean.colloquyStyle/issues)?  Here's a **Pro Tip** -- you can read through existing issues and vote for which issues you'd like to see resolved first!
+
+Thank you for taking the time to help improve this project.
+
+CONTRIBUTING
+------------
+
+Patches are always welcome and appreciated!  The process is straight-forward for contributing your work back to the source:
+
+* Fork the project -- may I suggest [Github](http://www.github.com)?
+* Make your feature addition or bug fix **with specifications**.  It's important that I don't break your hard work in a future version unintentionally.
+* Please do not casually alter files in the project root. (e.g. LICENSE, README.mdown, etc.)
+* Commit your changes and publish the change-set.
+* Send me a pull request.  Remember, all specs must pass!
+
+Before making your change, take a moment to get a feel for the style of coding, specifications, and in-line documentation.
+
+Again, thank you for taking the time to help improve this project.
